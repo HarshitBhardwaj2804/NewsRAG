@@ -1,6 +1,6 @@
 # NewsRAG
 ## Project Structure
-'''
+```
 news-summarizer-project/
 │
 ├── .gitignore               # Specifies intentionally untracked files to ignore
@@ -36,4 +36,4 @@ news-summarizer-project/
     └── summarizer/          # Module for the core AI summarization logic
         ├── __init__.py
         └── generator.py     # Implements the RAG pipeline and text generation with the model
-'''
+```
